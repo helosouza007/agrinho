@@ -1,0 +1,46 @@
+body {
+    background-color: #d8d2e9;
+
+}
+
+#img {
+    width: 60%;
+    height: 80%;
+}
+
+h1 {
+    text-align: center;
+
+h2 {
+   text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px;
+}
+
+em strong {
+   color: #d8d2e9;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#video {
+    width: 50%;
+    height: 70%;
+}
+
+ul {
+    text-align: center;
+}
+}
